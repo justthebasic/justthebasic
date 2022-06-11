@@ -3,11 +3,11 @@
 - 🔭 Atualmente estou estudando programação focado em **front-end**
 - 😄 o/ele/o
 - ⚡ Sou um entusiasta da tecnologia
-<img align="right" width="200em" height="200em" src="https://c.tenor.com/XKMlJEoQ1oYAAAAi/markazushi.gif"/>
-<br>
+<img  position= relative width="200em" height="200em" src="https://c.tenor.com/XKMlJEoQ1oYAAAAi/markazushi.gif"/>
+<br><br>
 
   
-  
+ 
  ⚙️ &nbsp;Status GitHub
 
 <div align="center">
