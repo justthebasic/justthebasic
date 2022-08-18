@@ -1,8 +1,7 @@
-### Olá!!! Me chamo Erick  👋
+### Hi!!! My name's Erick  👋
 
--  Atualmente estou estudando programação focado em **front-end**
--  o/ele/o
--  Sou um entusiasta da tecnologia
+-  I'm currently studying **front end**
+-  I'm a technology enthusiast
 <img  position= relative width="200em" height="200em" src="https://c.tenor.com/XKMlJEoQ1oYAAAAi/markazushi.gif"/>
 <br><br>
 
