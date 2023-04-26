@@ -1,6 +1,6 @@
 ### Hi!!! My name's Erick  👋
 
--  I'm currently studying **front end**
+-  I'm currently studying **full stack development**
 -  I'm a technology enthusiast
 <img  position= relative width="200em" height="200em" src="https://c.tenor.com/XKMlJEoQ1oYAAAAi/markazushi.gif"/>
 
