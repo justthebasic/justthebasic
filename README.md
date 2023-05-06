@@ -1,10 +1,9 @@
 ### Hi!!! My name's Erick  👋
 
--  I'm currently studying **full stack development**
--  I'm a technology enthusiast
-<img  position= relative width="200em" height="200em" src="https://c.tenor.com/XKMlJEoQ1oYAAAAi/markazushi.gif"/>
+-  I'm currently studying **back-end** technologies
 
-##
+<img position= relative width="200em" height="200em" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"/>
+
   
  
  ⚙️ &nbsp;Status GitHub
@@ -20,10 +19,14 @@
   🛠 &nbsp;Tecnologias
   <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Erick-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Erick-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="Erick-csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  
   
   
 </div>
