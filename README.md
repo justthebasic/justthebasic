@@ -1,41 +1,31 @@
-### Hi!!! My name's Erick  👋
+## Sobre Mim
 
--  I'm currently studying **back-end** technologies
+Olá! Eu sou o **Erick Cardoso**, desenvolvedor **Full-Stack** e entusiasta de **Inteligência Artificial**, movido por desafios que combinem front-end elegante, back-end robusto e soluções de AI inovadoras.
 
-<img position= relative width="200em" height="200em" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"/>
+- 🚀 **Experiência & Projetos**  
+  - **Full-Stack** com Next.js e NestJS: criação de aplicações web responsivas, SSR/SSG e APIs REST/GraphQL.  
+  - **Back-End** em Java (Spring Boot) e Node.js: microserviços, mensageria, cache, testes automatizados e deploy em Oracle Cloud.  
+  - **AI & Automação**: agentes LangChain com ChatOpenAI e Together AI, integração de modelos em workflows de pesquisa e atendimento; projeto de gerenciamento de sinalizações de crypto com CryptoPanic.  
+  - Suporte N3 em Oracle PL/SQL: manutenção de bases de dados, otimização de queries e automação de processos críticos.
 
-  
- 
- ⚙️ &nbsp;Status GitHub
+- 🎓 **Formação & Aprendizado Contínuo**  
+  - Tecnólogo em Análise e Desenvolvimento de Sistemas (conclusão iminente).  
+  - Estudos avançados em **IA** (NLP, embeddings, agentes autônomos) e **DevOps** (Docker, GitHub Actions, CI/CD).  
+  - Aperfeiçoamento em **TypeScript**, **Java**, **Python**, e frameworks modernos.
 
-<div align="center">
-  <a href="https://github.com/justthebasic">
-  <img height="150em"src="https://github-readme-stats.vercel.app/api?username=justthebasic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=justthebasic&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- 🛠 **Stack & Ferramentas**  
+  - **Front-End:** React, Next.js, TailwindCSS  
+  - **Back-End:** NestJS, Spring Boot, Node.js  
+  - **AI/ML:** LangChain, ChatOpenAI, Together AI, Python (scikit-learn, pandas)  
+  - **DevOps:** Docker, GitHub Actions, Oracle Cloud, CI/CD  
+  - **DB:** Oracle PL/SQL, MySQL, PostgreSQL  
+  - **Outros:** Git, ESLint, Prettier, Black
 
-  #
-  
-  🛠 &nbsp;Tecnologias
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Erick-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Erick-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Erick-csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  
-  
-  
-</div>
-  
-  #
-  
-  <div> 
-  <a href="https://instagram.com/_justthebasic" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ericklamartinne0800@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/erick-cardoso-8b889a225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
+- 🎯 **O que Estou Buscando**  
+  - Vagas Full-Stack que unam **interfaces engajadoras**, **arquiteturas escaláveis** e **componentes de IA**.  
+  - Projetos de **automação inteligente**, chatbots, pipelines de dados e integração de APIs de ML.
+
+
+📫 Vamos conversar?  
+✉️ ericklamartinne0800@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/erick-cardoso-797857285/) | [Instagram @_justthebasic](https://instagram.com/_justthebasic)
