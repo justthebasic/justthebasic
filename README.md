@@ -9,9 +9,9 @@ Olá! Eu sou o **Erick Cardoso**, desenvolvedor **Full-Stack** e entusiasta de *
   - Suporte N3 em Oracle PL/SQL: manutenção de bases de dados, otimização de queries e automação de processos críticos.
 
 - 🎓 **Formação & Aprendizado Contínuo**  
-  - Tecnólogo em Análise e Desenvolvimento de Sistemas (conclusão iminente).  
+  - Tecnólogo em Análise e Desenvolvimento de Sistemas.  
   - Estudos avançados em **IA** (NLP, embeddings, agentes autônomos) e **DevOps** (Docker, GitHub Actions, CI/CD).  
-  - Aperfeiçoamento em **TypeScript**, **Java**, **Python**, e frameworks modernos.
+  - Aperfeiçoamento em **TypeScript**, **Java**, **Python**,**Golang**, e frameworks modernos.
 
 - 🛠 **Stack & Ferramentas**  
   - **Front-End:** React, Next.js, TailwindCSS  
