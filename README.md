@@ -1,31 +1,48 @@
-## Sobre Mim
+# 🚀 Erick Cardoso | Full-Stack & AI Solutions Developer
 
-Olá! Eu sou o **Erick Cardoso**, desenvolvedor **Full-Stack** e entusiasta de **Inteligência Artificial**, movido por desafios que combinem front-end elegante, back-end robusto e soluções de AI inovadoras.
+Olá! Sou o **Erick Cardoso**, um desenvolvedor focado em transformar processos complexos em fluxos automatizados e inteligentes. Atualmente, dedico-me a construir a intersecção entre o desenvolvimento **Full-Stack robusto** e a **Inteligência Artificial aplicada**.
 
-- 🚀 **Experiência & Projetos**  
-  - **Full-Stack** com Next.js e NestJS: criação de aplicações web responsivas, SSR/SSG e APIs REST/GraphQL.  
-  - **Back-End** em Java (Spring Boot) e Node.js: microserviços, mensageria, cache, testes automatizados e deploy em Oracle Cloud.  
-  - **AI & Automação**: agentes LangChain com ChatOpenAI e Together AI, integração de modelos em workflows de pesquisa e atendimento; projeto de gerenciamento de sinalizações de crypto com CryptoPanic.  
-  - Suporte N3 em Oracle PL/SQL: manutenção de bases de dados, otimização de queries e automação de processos críticos.
+### 🛠️ No que estou focado agora
 
-- 🎓 **Formação & Aprendizado Contínuo**  
-  - Tecnólogo em Análise e Desenvolvimento de Sistemas.  
-  - Estudos avançados em **IA** (NLP, embeddings, agentes autônomos) e **DevOps** (Docker, GitHub Actions, CI/CD).  
-  - Aperfeiçoamento em **TypeScript**, **Java**, **Python**,**Golang**, e frameworks modernos.
+* **AI-SDR Platform:** Desenvolvendo uma plataforma de automação de vendas ponta a ponta, utilizando agentes autônomos para prospecção e qualificação de leads.
+* **Automação para Marketing:** Criando ecossistemas para agências de marketing que integram LLMs (OpenAI/Together AI) em fluxos de atendimento e geração de conteúdo.
+* **Sistemas Escaláveis:** Aperfeiçoando arquiteturas com NestJS, Next.js e Cloud (Oracle Cloud) para garantir performance e segurança.
 
-- 🛠 **Stack & Ferramentas**  
-  - **Front-End:** React, Next.js, TailwindCSS  
-  - **Back-End:** NestJS, Spring Boot, Node.js  
-  - **AI/ML:** LangChain, ChatOpenAI, Together AI, Python (scikit-learn, pandas)  
-  - **DevOps:** Docker, GitHub Actions, Oracle Cloud, CI/CD  
-  - **DB:** Oracle PL/SQL, MySQL, PostgreSQL  
-  - **Outros:** Git, ESLint, Prettier, Black
+---
 
-- 🎯 **O que Estou Buscando**  
-  - Vagas Full-Stack que unam **interfaces engajadoras**, **arquiteturas escaláveis** e **componentes de IA**.  
-  - Projetos de **automação inteligente**, chatbots, pipelines de dados e integração de APIs de ML.
+### 💻 Stack Técnica
 
+| Categoria | Tecnologias |
+| --- | --- |
+| **Linguagens** | TypeScript, Java, Python, Go |
+| **Front-End** | React, Next.js (SSR/SSG), TailwindCSS |
+| **Back-End** | NestJS, Spring Boot, Node.js, PL/SQL |
+| **AI & Data** | LangChain, Agents, Embeddings, Pinecone, Pandas |
+| **DevOps & Cloud** | Docker, GitHub Actions, Oracle Cloud, CI/CD |
+| **Bancos de Dados** | PostgreSQL, MySQL, Oracle DB |
 
-📫 Vamos conversar?  
-✉️ ericklamartinne0800@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/erick-cardoso-797857285/) | [Instagram @_justthebasic](https://instagram.com/_justthebasic)
+---
+
+### 🌟 Destaques de Experiência
+
+* **Freelance Software Developer (Foco em Agências):** Consultoria e desenvolvimento de ferramentas personalizadas de IA e automação, otimizando o fluxo de trabalho de times de marketing e vendas.
+* **Job Hunter Bot:** Desenvolvi um bot utilizando Playwright e OpenAI para automatizar e otimizar candidaturas, demonstrando expertise em Web Scraping e integração de LLMs.
+* **Suporte N3 & Performance:** Experiência sólida em manutenção de bases de dados críticas e otimização de queries complexas.
+
+---
+
+### 🎯 Oportunidades de Interesse
+
+Busco colaborar em projetos que desafiem o status quo através da tecnologia, especialmente:
+
+* **Engenharia de Software com foco em IA:** Implementação de RAG (Retrieval-Augmented Generation) e agentes em produtos SaaS.
+* **Arquitetura Full-Stack:** Desenvolvimento de aplicações ponta a ponta que priorizam a experiência do usuário e escalabilidade.
+* **Soluções de Web Automation:** Integração de ferramentas como Playwright para automação de processos de negócio.
+
+---
+
+### 📫 Vamos construir algo incrível?
+
+* **Email:** [ericklamartinne0800@gmail.com](mailto:ericklamartinne0800@gmail.com)
+* **LinkedIn:** [linkedin.com/in/erick-cardoso](https://www.linkedin.com/in/erick-cardoso-797857285/)
+* **Instagram:** [@_justthebasic](https://instagram.com/_justthebasic)
