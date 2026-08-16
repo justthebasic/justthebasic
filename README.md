@@ -1,48 +1,19 @@
-# 🚀 Erick Cardoso | Full-Stack & AI Solutions Developer
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Erick%20Cardoso&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20%26%20AI%20Solutions%20Engineer&descFontSize=18&descAlignY=60" width="100%" alt="Header" />
 
-Olá! Sou o **Erick Cardoso**, um desenvolvedor focado em transformar processos complexos em fluxos automatizados e inteligentes. Atualmente, dedico-me a construir a intersecção entre o desenvolvimento **Full-Stack robusto** e a **Inteligência Artificial aplicada**.
+  <p>
+    <a href="https://linkedin.com/in/erick-cardoso-797857285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:ericklamartinne0800@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://instagram.com/_justthebasic"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
+</div>
 
-### 🛠️ No que estou focado agora
-
-* **AI-SDR Platform:** Desenvolvendo uma plataforma de automação de vendas ponta a ponta, utilizando agentes autônomos para prospecção e qualificação de leads.
-* **Automação para Marketing:** Criando ecossistemas para agências de marketing que integram LLMs (OpenAI/Together AI) em fluxos de atendimento e geração de conteúdo.
-* **Sistemas Escaláveis:** Aperfeiçoando arquiteturas com NestJS, Next.js e Cloud (Oracle Cloud) para garantir performance e segurança.
-
----
-
-### 💻 Stack Técnica
-
-| Categoria | Tecnologias |
-| --- | --- |
-| **Linguagens** | TypeScript, Java, Python, Go |
-| **Front-End** | React, Next.js (SSR/SSG), TailwindCSS |
-| **Back-End** | NestJS, Spring Boot, Node.js, PL/SQL |
-| **AI & Data** | LangChain, Agents, Embeddings, Pinecone, Pandas |
-| **DevOps & Cloud** | Docker, GitHub Actions, Oracle Cloud, CI/CD |
-| **Bancos de Dados** | PostgreSQL, MySQL, Oracle DB |
-
----
-
-### 🌟 Destaques de Experiência
-
-* **Freelance Software Developer (Foco em Agências):** Consultoria e desenvolvimento de ferramentas personalizadas de IA e automação, otimizando o fluxo de trabalho de times de marketing e vendas.
-* **Job Hunter Bot:** Desenvolvi um bot utilizando Playwright e OpenAI para automatizar e otimizar candidaturas, demonstrando expertise em Web Scraping e integração de LLMs.
-* **Suporte N3 & Performance:** Experiência sólida em manutenção de bases de dados críticas e otimização de queries complexas.
-
----
-
-### 🎯 Oportunidades de Interesse
-
-Busco colaborar em projetos que desafiem o status quo através da tecnologia, especialmente:
-
-* **Engenharia de Software com foco em IA:** Implementação de RAG (Retrieval-Augmented Generation) e agentes em produtos SaaS.
-* **Arquitetura Full-Stack:** Desenvolvimento de aplicações ponta a ponta que priorizam a experiência do usuário e escalabilidade.
-* **Soluções de Web Automation:** Integração de ferramentas como Playwright para automação de processos de negócio.
-
----
-
-### 📫 Vamos construir algo incrível?
-
-* **Email:** [ericklamartinne0800@gmail.com](mailto:ericklamartinne0800@gmail.com)
-* **LinkedIn:** [linkedin.com/in/erick-cardoso](https://www.linkedin.com/in/erick-cardoso-797857285/)
-* **Instagram:** [@_justthebasic](https://instagram.com/_justthebasic)
+```yaml
+engineer:
+  name: "Erick Cardoso"
+  core: ["Full-Stack Architecture", "Multi-Agent Systems", "Distributed Workflows"]
+  philosophy: "Transform complex workflows into autonomous, resilient software."
+  stack_specialties:
+    - backend: ["Python", "FastAPI", "Node.js/TypeScript", "Java (Spring Boot)"]
+    - ai_orchestration: ["LangGraph", "LangChain", "Temporal", "MCP", "ChromaDB"]
+    - web_infra: ["Next.js", "React", "PostgreSQL", "Docker", "Cloud"]
